@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-🎓 B.Sc. Graduate | 💻 MERN Stack Developer | 🌟 Passionate about building scalable web applications! 
+🎓 B.Sc. Graduate | 💻 MERN Stack Developer...!| 🌟 Passionate about building scalable web applications! 
 
 I am an enthusiastic self-inspired IT fresher seeking opportunities to grow and contribute my skills to the success of an organization. I love building interactive, responsive web applications and exploring the latest web technologies.
 
