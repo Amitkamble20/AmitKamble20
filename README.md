@@ -1,5 +1,5 @@
 ### Hi there, I'm 
-#Amit Kamble! 👋
+# Amit Kamble! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7A500&center=true&vCenter=true&width=500&lines=MERN+Stack+Developer;Passionate+about+Tech;Building+Scalable+Web+Applications!"/>
